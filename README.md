@@ -9,7 +9,7 @@
 
 - 🧑‍💻 I'm a backend engineer.
 - 🌱 I’m currently learning vue and react!
-- 📫 How to reach me: [Twitter - @username](https://x.com/oono_dev)
+- 📫 How to reach me: [Twitter - @oono-dev](https://x.com/oono_dev)
 <br>
 
 
