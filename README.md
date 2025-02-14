@@ -12,6 +12,10 @@
 - 📫 How to reach me: [Twitter - @oono_dev](https://x.com/oono_dev)
 <br>
 
+## 📃 My Articles
+
+- [Qiita](https://qiita.com/oono_dev)
+<br>
 
 <!-- 3. 好きな技術スタックに変更 -->
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
