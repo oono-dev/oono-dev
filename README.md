@@ -12,9 +12,10 @@
 - 📫 How to reach me: [Twitter - @oono_dev](https://x.com/oono_dev)
 <br>
 
-## 📃 My Articles
+## 📃 Outputs
 
 - [Qiita](https://qiita.com/oono_dev)
+- [Speaker Deck](https://speakerdeck.com/oono)
 <br>
 
 <!-- 3. 好きな技術スタックに変更 -->
